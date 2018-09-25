@@ -1,14 +1,7 @@
-oscar - omar
-oscar - omar
-oscar - cesar
-oscar - pedro
+oscar - omar,cesar,pedro
+omar  - juan,pablo,jose
 cesar - minerva
-omar - juan
-omar - pablo
-omar - jose
-omar - omar
-jose - lola
-jose - lalo
-lalo - fernando
-fernando - miguel
+jose  - efrain,eduardo
+efrain - fernando
+pedro - miguel
 
