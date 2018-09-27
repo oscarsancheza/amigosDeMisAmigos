@@ -97,10 +97,7 @@ public class Main {
    *     amigos
    */
   private static Grafo leerArchivo(Scanner input) {
-    Persona[] amigosDirectos;
     Grafo amigos = new Grafo();
-    Persona persona;
-    String nombreUno;
 
     // se lee el archivo hasta que no encuentre mas datos
     while (input.hasNextLine()) {
